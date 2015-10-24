@@ -1,0 +1,55 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Francesca\Documents\Unity\Unity Projects\Circley\Circley_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.327849 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 173.
+Total: 0.241623 ms (FindLiveObjects: 0.017533 ms CreateObjectMapping: 0.011974 ms MarkObjects: 0.206984 ms  DeleteObjects: 0.004276 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.377617 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 0.260013 ms (FindLiveObjects: 0.021810 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.220668 ms  DeleteObjects: 0.004276 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.196145 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 361.
+Total: 0.384460 ms (FindLiveObjects: 0.073128 ms CreateObjectMapping: 0.016250 ms MarkObjects: 0.289948 ms  DeleteObjects: 0.004704 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.970344 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 361.
+Total: 0.549106 ms (FindLiveObjects: 0.073556 ms CreateObjectMapping: 0.026086 ms MarkObjects: 0.440910 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.638486 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 361.
+Total: 0.382749 ms (FindLiveObjects: 0.060299 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.292514 ms  DeleteObjects: 0.013257 ms)
+
